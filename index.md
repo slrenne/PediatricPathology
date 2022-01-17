@@ -9,4 +9,4 @@ In order to motivate our students and focus on the clinical needs, we also invit
 
 
 Faculty
-The members are [professor Gordan Vujanic](.)
+The members are [professor Gordan Vujanic](https://slrenne.github.io/PediatricPathology/faculty/gvujanic/)
