@@ -1,5 +1,7 @@
 ## Residential Course of Pediatric Pathology
 
+### Course goals
+
 Our main goals for this residential course are to:
 1. Expose to the main diagnoses, focusing on clinically meaningful information
 2. Convey the basics to manage the cases in the best possible way
@@ -8,8 +10,11 @@ Our main goals for this residential course are to:
 In order to motivate our students and focus on the clinical needs, we also invited clinicians. Therefore – when possible – we wanted to couple clinician and pathologist to meet our goals. From Clinicians, we expect to inform our students on what a pathologist shall report and why; whereas from  pathologists, we would like the students to learn the rules and tricks to make a meaningful diagnosis.
 
 
-Faculty
-The members are [Gordan Vujanic](https://slrenne.github.io/PediatricPathology/faculty/gvujanic/), Enrique de Álava, professor Luigi Terracciano, 
+### Faculty
+
+The members are [Prof. Gordan Vujanic](https://slrenne.github.io/PediatricPathology/faculty/gvujanic/), Prof. Enrique de Álava, Prof. Luigi Terracciano, Prof. Stefano Pileri, Dr. Paola Collini, Dr. Francesca Diomedi Cassei, Prof. Felie Giangaspero, Prof. Rita Alaggio, Dr. Andrea Ferrari, Dr. Martina Angi, Prof. Elisabeth Bruder, Dr. Roberto Luksch, Dr. Antonina Parafioriti, Prof. Maurizio Colecchia.
+
+### The program
 
 |Day | Time | Lecture | Speaker | 
 |---------|------------|-----------------------------|---------------|
