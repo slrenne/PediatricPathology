@@ -35,4 +35,9 @@ The members are [Prof. Gordan Vujanic](https://slrenne.github.io/PediatricPathol
 ## Course Material Availability
 
 The material availability is decided by the speaker. To access the material **you will need a google account**. If you do not have one, you first have to create it 
-[here](https://accounts.google.com/signup/v2/webcreateaccount?hl=en&flowName=GlifWebSignIn&flowEntry=SignUp). If you want to make request to the available material, please fill this [form](https://docs.google.com/forms/d/e/1FAIpQLSffpR8WTOsX83cpWRGoyJjqR8b6-OqF7j4G_oxUyGbQkquIPA/viewform?usp=sf_link) (if you do not have a google account you will not be able to access the form).
+[here](https://accounts.google.com/signup/v2/webcreateaccount?hl=en&flowName=GlifWebSignIn&flowEntry=SignUp). 
+If you want to make request to the available material, please fill this [form](https://docs.google.com/forms/d/e/1FAIpQLSffpR8WTOsX83cpWRGoyJjqR8b6-OqF7j4G_oxUyGbQkquIPA/viewform?usp=sf_link) (if you do not have a google account you will not be able to access the form).
+
+|Lecture|Speaker|Video|Slides|
+|-----------------------------|---------------|---------------|---------------|
+| Wilms' tumor | Vujanic| [available upon request](https://youtu.be/7YvRJWoTvUo) | not available |
