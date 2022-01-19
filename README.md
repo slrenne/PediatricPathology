@@ -1,3 +1,3 @@
-# PediatricPathology
+# Pediatric Pathology
 
-(Webpage)[https://slrenne.github.io/PediatricPathology/] for pediatric pathology course 
+Script to generate the [webpage](https://slrenne.github.io/PediatricPathology/) for pediatric pathology course.
