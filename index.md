@@ -18,7 +18,7 @@ The members are [Prof. Gordan Vujanic](https://slrenne.github.io/PediatricPathol
 
 |Day | Time | Lecture | Speaker | 
 |---------|------------|-----------------------------|---------------|
-|Jan 14th | 8:30 - 9:30 | Wilms tumor | Vujanic|
+|Jan 14th | 8:30 - 9:30 | Wilms' tumor | Vujanic|
 |Jan 21st | 8:30 - 9:30 | Most common non-WT in children | Vujanic|
 |Feb 11th | 8:30 - 9:30 | Small Cell Sarcomas | de Alava |
 |Feb 25th | 8:30 - 9:30 | Liver Pathology | Terracciano|
@@ -31,3 +31,8 @@ The members are [Prof. Gordan Vujanic](https://slrenne.github.io/PediatricPathol
 |Jun 10th | 13:00 - 15:00 | Neuroblastoma | Collini/Luksch|
 |Jun 24th | 13:00 - 15:00 | Osteosarcoma | Parafioriti/Luksch|
 |Jul 8th | 8:30 - 9:30 | Testicular neoplasms | Colecchia|
+
+## Course Material Availability
+
+The material availability is decided by the speaker. To access the material **you will need a google account**. If you do not have one, you first have to create it 
+[here](https://accounts.google.com/signup/v2/webcreateaccount?hl=en&flowName=GlifWebSignIn&flowEntry=SignUp). If you want to make request to the available material, please fill this [form](https://docs.google.com/forms/d/e/1FAIpQLSffpR8WTOsX83cpWRGoyJjqR8b6-OqF7j4G_oxUyGbQkquIPA/viewform?usp=sf_link) (if you do not have a google account you will not be able to access the form).
