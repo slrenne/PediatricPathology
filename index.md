@@ -17,7 +17,7 @@ The members are [Prof. Gordan Vujanic](https://slrenne.github.io/PediatricPathol
 ### The program
 
 |Day | Time | Lecture | Speaker | 
-|---------|------------|-----------------------------|---------------|
+|-----------|------------|-----------------------------|---------------|
 |Jan 14th | 8:30 - 9:30 | Wilms' tumor | Vujanic|
 |Jan 21st | 8:30 - 9:30 | Most common non-WT renal tumor| Vujanic|
 |Feb 11th | 8:30 - 9:30 | Small Cell Sarcomas | de Alava |
