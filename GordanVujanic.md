@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: default
 title: "Gordan Vujanic"
 permalink: /faculty/gvujanic/
-theme: jekyll-theme-tactile
 
 ---
 
