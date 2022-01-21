@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "PAGE TITLE"
+title: "Gordan Vujanic"
 permalink: /faculty/gvujanic/
 theme: jekyll-theme-tactile
 
