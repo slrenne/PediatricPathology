@@ -2,6 +2,8 @@
 layout: page
 title: "PAGE TITLE"
 permalink: /faculty/gvujanic/
+theme: jekyll-theme-tactile
+
 ---
 
 ## Prof. Gordan Vujanic
