@@ -24,7 +24,7 @@ The members are [Prof. Gordan Vujanic](https://slrenne.github.io/PediatricPathol
 |Feb 25th | 8:30 - 9:30 | Liver Pathology | Terracciano|
 |Mar 9th | 14:00 - 15:00 | Leukemia & lymphoma | Pileri|
 |Mar 25th | 14:00 - 15:00 | nonWilms RCC and WT Italian experience | Collini/Diomedi Camassei|
-|Apr 8th | 13:00 - 14:00 | SNC | Giangaspero |
+|Apr 8th | 13:00 - 15:00 | SNC | Giangaspero/Massimino |
 |Apr 22nd | 13:00 - 15:00 | Sarcoma | Alaggio/Ferrari|
 |May 13th | 8:30 - 9:30 | Eye neoplasms | Angi|
 |May 27th | 8:30 - 9:30 | GI non neoplastic diseases | Bruder|
