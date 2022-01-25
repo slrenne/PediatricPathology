@@ -17,14 +17,14 @@ The members are [Prof. Gordan Vujanic](https://slrenne.github.io/PediatricPathol
 ### The program
 
 |Day | Time | Lecture | Speaker | 
-|-----------|------------|-----------------------------|---------------|
+|-----------|---------------|-----------------------------|---------------|
 |Jan 14th | 8:30 - 9:30 | Wilms' tumor | Vujanic|
 |Jan 21st | 8:30 - 9:30 | Most common non-WT renal tumor| Vujanic|
 |Feb 11th | 8:30 - 9:30 | Small Cell Sarcomas | de Alava |
 |Feb 25th | 8:30 - 9:30 | Liver Pathology | Terracciano|
 |Mar 9th | 14:00 - 15:00 | Leukemia & lymphoma | Pileri|
 |Mar 25th | 14:00 - 15:00 | nonWilms RCC and WT Italian experience | Collini/Diomedi Camassei|
-|Apr 8th | 13:00 - 14:00 | SNC | Giangaspero [+onco?]|
+|Apr 8th | 13:00 - 14:00 | SNC | Giangaspero |
 |Apr 22nd | 13:00 - 15:00 | Sarcoma | Alaggio/Ferrari|
 |May 13th | 8:30 - 9:30 | Eye neoplasms | Angi|
 |May 27th | 8:30 - 9:30 | GI non neoplastic diseases | Bruder|
