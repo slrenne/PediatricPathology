@@ -20,7 +20,7 @@ The members are [Prof. Gordan Vujanic](https://slrenne.github.io/PediatricPathol
 |-----------|---------------|-----------------------------|---------------|
 |Jan 14th | 8:30 - 9:30 | Wilms' tumor | Vujanic|
 |Jan 21st | 8:30 - 9:30 | Most common non-WT renal tumor| Vujanic|
-|Feb 11th | 8:30 - 9:30 | Small Cell Sarcomas | de  Álava |
+|Feb 11th | 8:30 - 9:30 | Round Cell Sarcomas | de  Álava |
 |Feb 25th | 8:30 - 9:30 | Liver Pathology | Terracciano|
 |Mar 9th | 14:00 - 15:00 | Leukemia & lymphoma | Pileri|
 |Mar 25th | 14:00 - 15:00 | nonWilms RCC and WT Italian experience | Collini/Diomedi Camassei|
@@ -42,5 +42,5 @@ If you want to make request to the available material, please fill this [form](h
 |-----------------------------|---------------|---------------|---------------|
 | Wilms' tumor | Vujanic| [available upon request](https://youtu.be/7YvRJWoTvUo) | not available |
 | Most common non-WT renal tumor | Vujanic| [available upon request](https://youtu.be/30pXyt1RHzk) | not available |
-| Round cell sarcomas | de  Álava | [available upon request](https://youtu.be/FG-FcXxCYC0) | not yet available |
+| Round cell sarcomas | de  Álava | [available upon request](https://youtu.be/oGjmDlRPpWw) | not yet available |
 
