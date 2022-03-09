@@ -12,7 +12,7 @@ In order to motivate our students and focus on the clinical needs, we also invit
 
 ### Faculty
 
-The members are [Prof. Gordan Vujanic](https://slrenne.github.io/PediatricPathology/faculty/gvujanic/), [Prof. Enrique de Álava](https://slrenne.github.io/PediatricPathology/faculty/edealava/), [Prof. Luigi Terracciano](https://slrenne.github.io/PediatricPathology/faculty/lterracciano/), Prof. Stefano Pileri, Dr. Paola Collini, Dr. Francesca Diomedi Cassei, Prof. Felice Giangaspero, Prof. Rita Alaggio, Dr. Andrea Ferrari, Dr. Martina Angi, Prof. Elisabeth Bruder, Dr. Roberto Luksch, Dr. Antonina Parafioriti, Prof. Maurizio Colecchia.
+The members are [Prof. Gordan Vujanic](https://slrenne.github.io/PediatricPathology/faculty/gvujanic/), [Prof. Enrique de Álava](https://slrenne.github.io/PediatricPathology/faculty/edealava/), [Prof. Luigi Terracciano](https://slrenne.github.io/PediatricPathology/faculty/lterracciano/), [Prof. Stefano Pileri](https://slrenne.github.io/PediatricPathology/faculty/spileri/), Dr. Paola Collini, Dr. Francesca Diomedi Cassei, Prof. Felice Giangaspero, Prof. Rita Alaggio, Dr. Andrea Ferrari, Dr. Martina Angi, Prof. Elisabeth Bruder, Dr. Roberto Luksch, Dr. Antonina Parafioriti, Prof. Maurizio Colecchia.
 
 ### The program
 
