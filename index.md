@@ -43,4 +43,5 @@ If you want to make request to the available material, please fill this [form](h
 | Wilms' tumor | Vujanic| [available upon request](https://youtu.be/7YvRJWoTvUo) | not available |
 | Most common non-WT renal tumor | Vujanic| [available upon request](https://youtu.be/30pXyt1RHzk) | not available |
 | Round cell sarcomas | de  Álava | [available upon request](https://youtu.be/oGjmDlRPpWw) | not yet available |
-
+| Liver Pathology | Terracciano| [available upon request](https://youtu.be/dlxRu_3DcN4) | not available |
+| Leukemia & lymphoma | Pileri| [available](https://youtu.be/-DxvA8DmUz0) | not yet available |
