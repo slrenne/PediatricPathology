@@ -1,4 +1,3 @@
-## Residential Course of Pediatric Pathology
 
 ### Course goals
 
