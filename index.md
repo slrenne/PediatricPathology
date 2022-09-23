@@ -1,3 +1,4 @@
+# Pediatric Pathology
 
 ### Course goals
 
@@ -47,3 +48,4 @@ If you want to make request to the available material, please fill this [form](h
 
 ## Scientific committee
 The Course Secretary: Dr. Salvatore Lorenzo Renne MD
+The Residential School Director: Prof. Luigi Maria Terracciano MD
