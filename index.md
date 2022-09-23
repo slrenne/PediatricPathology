@@ -45,3 +45,6 @@ If you want to make request to the available material, please fill this [form](h
 | Round cell sarcomas | de  Álava | [available upon request](https://youtu.be/oGjmDlRPpWw) | not yet available |
 | Liver Pathology | Terracciano| [available upon request](https://youtu.be/dlxRu_3DcN4) | not available |
 | Leukemia & lymphoma | Pileri| [available](https://youtu.be/-DxvA8DmUz0) | not yet available |
+
+## Scientific committee
+The Course Secretary: Dr. Salvatore Lorenzo Renne MD
